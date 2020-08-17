@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1tzzVQx+cnQ7cKyty6qGOnryU5EA+9l3OipYhpJHXOK5nDEh8sMtFR8ILrtPCnvkEoH31q669WH/HipyRHoAZg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\VsStudioSaves\\ShopRESTAPI\\ShopDesktop\\ShopDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
